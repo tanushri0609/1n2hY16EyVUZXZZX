@@ -1,4 +1,3 @@
-# $ ./tree-md .
 # Term Deposite Marketing
 
 .

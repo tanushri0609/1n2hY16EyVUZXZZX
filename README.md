@@ -2,13 +2,13 @@
 # Term Deposite Marketing
 
 .
- * [.ipynb_checkpoints]
+ * [.ipynb_checkpoints](./dir1)
  * [Notebook](./dir2)
-   * [Term_Deposit.ipynb](./dir2/file1.ext)
- * [data](./dir1)
-   * [term-deposit-marketing-2020.csv](./dir1/file11.ext)
- * [src](./dir3)
-   * [data_encoding.py]
+   * [Term_Deposit.ipynb](./dir2/file1.ipyb)
+ * [data](./dir3)
+   * [term-deposit-marketing-2020.csv](./dir3/file11.csv)
+ * [src](./dir4)
+   * [data_encoding.py](./dir4/file1.py)
    * [evaluate_model.py]
    * [feature_selection.py]
    * [main.py]

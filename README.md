@@ -15,7 +15,7 @@ $ conda list -e > requirements.txt
 
 
 |---[.ipynb_checkpoints](.ipynb_checkpoints)<br>
-|---[Notebook](.Notebook)<br>
+|---[Notebook](./Notebook)<br>
  &emsp;|---[Term_Deposit.ipynb](https://github.com/tanushri0609/1n2hY16EyVUZXZZX/tree/main/Notebook/Term_Deposit.ipynb)<br>
 |---[data](https://github.com/tanushri0609/1n2hY16EyVUZXZZX/tree/main/data)<br>
  &emsp;|---[term-deposit-marketing-2020.csv](https://github.com/tanushri0609/1n2hY16EyVUZXZZX/tree/main/data/term-deposit-marketing-2020.csv)<br>

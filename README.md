@@ -16,18 +16,18 @@ $ conda list -e > requirements.txt
 
 |---[.ipynb_checkpoints](https://github.com/tanushri0609/1n2hY16EyVUZXZZX/tree/main/.ipynb_checkpoints)<br>
 |---[Notebook](https://github.com/tanushri0609/1n2hY16EyVUZXZZX/tree/main/Notebook)<br>
- &emsp;|---[Term_Deposit.ipynb](./dir2/file1.ipyb)<br>
-|---[data](./dir3)<br>
- &emsp;|---[term-deposit-marketing-2020.csv](./dir3/file11.csv)<br>
-|---[src](./dir4)<br>
-   * [data_encoding.py](./dir4/file4.py)
-   * [evaluate_model.py](./dir4/file2.py)
-   * [feature_selection.py](./dir4/file3.py)
-   * [main.py](./dir4/file1.py)
-   * [partition_data.py](./dir4/file5.py)
-   * [read_file.py](./dir4/file6.py)
-   * [split_data.py](./dir4/file7.py)
-   * [treat_imbalance.py](./dir4/file8.py)
- * [README.md](./README.md)
+ &emsp;|---[Term_Deposit.ipynb](https://github.com/tanushri0609/1n2hY16EyVUZXZZX/tree/main/Notebook/Term_Deposit.ipynb)<br>
+|---[data](https://github.com/tanushri0609/1n2hY16EyVUZXZZX/tree/main/data)<br>
+ &emsp;|---[term-deposit-marketing-2020.csv](https://github.com/tanushri0609/1n2hY16EyVUZXZZX/tree/main/data/term-deposit-marketing-2020.csv)<br>
+|---[src]((https://github.com/tanushri0609/1n2hY16EyVUZXZZX/tree/main/src)<br>
+ &emsp;|---[data_encoding.py](https://github.com/tanushri0609/1n2hY16EyVUZXZZX/tree/main/src/data_encoding.py)<br>
+ &emsp;|---[evaluate_model.py](https://github.com/tanushri0609/1n2hY16EyVUZXZZX/tree/main/src/evaluate_model.py)<br>
+ &emsp;|---[feature_selection.py](https://github.com/tanushri0609/1n2hY16EyVUZXZZX/tree/main/src/feature_selection.py)<br>
+ &emsp;|---[main.py](https://github.com/tanushri0609/1n2hY16EyVUZXZZX/tree/main/src/main.py)<br>
+ &emsp;|---[partition_data.py](https://github.com/tanushri0609/1n2hY16EyVUZXZZX/tree/main/src/partition_data.py)<br>
+ &emsp;|---[read_file.py](https://github.com/tanushri0609/1n2hY16EyVUZXZZX/tree/main/src/read_file.py)<br>
+ &emsp;|---[split_data.py](https://github.com/tanushri0609/1n2hY16EyVUZXZZX/tree/main/src/split_data.py)<br>
+ &emsp;|---[treat_imbalance.py](https://github.com/tanushri0609/1n2hY16EyVUZXZZX/tree/main/src/treat_imbalance.py)<br>
+|---[README.md](./README.md)
  
  

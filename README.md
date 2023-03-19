@@ -14,8 +14,8 @@ $ conda list -e > requirements.txt
 ## Structure
 
 
-|---[.ipynb_checkpoints](.tree/main/.ipynb_checkpoints)<br>
-|---[Notebook](.tree/main/Notebook)<br>
+|---[.ipynb_checkpoints](.1n2hY16EyVUZXZZX/tree/main/.ipynb_checkpoints)<br>
+|---[Notebook](.1n2hY16EyVUZXZZX/tree/main/Notebook)<br>
  &emsp;|---[Term_Deposit.ipynb](./dir2/file1.ipyb)<br>
 |---[data](./dir3)<br>
  &emsp;|---[term-deposit-marketing-2020.csv](./dir3/file11.csv)<br>

@@ -15,9 +15,9 @@ $ conda list -e > requirements.txt
 
 
 |--[.ipynb_checkpoints](./dir1)<br>
- &ensp;|-- [Notebook](./dir2)
-   * [Term_Deposit.ipynb](./dir2/file1.ipyb)
- * [data](./dir3)
+|-- [Notebook](./dir2)<br>
+ &ensp;|-- [Term_Deposit.ipynb](./dir2/file1.ipyb)<br>
+|-- [data](./dir3)
    * [term-deposit-marketing-2020.csv](./dir3/file11.csv)
  * [src](./dir4)
    * [data_encoding.py](./dir4/file4.py)

@@ -14,12 +14,12 @@ $ conda list -e > requirements.txt
 ## Structure
 
 
-|--[.ipynb_checkpoints](./dir1)<br>
-|-- [Notebook](./dir2)<br>
- &ensp;|-- [Term_Deposit.ipynb](./dir2/file1.ipyb)<br>
-|-- [data](./dir3)
-   * [term-deposit-marketing-2020.csv](./dir3/file11.csv)
- * [src](./dir4)
+|---[.ipynb_checkpoints](./dir1)<br>
+|---[Notebook](./dir2)<br>
+ &emsp;|---[Term_Deposit.ipynb](./dir2/file1.ipyb)<br>
+|---[data](./dir3)<br>
+ &emsp;|---[term-deposit-marketing-2020.csv](./dir3/file11.csv)<br>
+|---[src](./dir4)<br>
    * [data_encoding.py](./dir4/file4.py)
    * [evaluate_model.py](./dir4/file2.py)
    * [feature_selection.py](./dir4/file3.py)

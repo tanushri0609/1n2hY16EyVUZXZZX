@@ -14,7 +14,7 @@ $ conda list -e > requirements.txt
 ## Structure
 
 
-|---[.ipynb_checkpoints](https://github.com/tanushri0609/1n2hY16EyVUZXZZX/tree/main/.ipynb_checkpoints)<br>
+|---[.ipynb_checkpoints](.ipynb_checkpoints)<br>
 |---[Notebook](https://github.com/tanushri0609/1n2hY16EyVUZXZZX/tree/main/Notebook)<br>
  &emsp;|---[Term_Deposit.ipynb](https://github.com/tanushri0609/1n2hY16EyVUZXZZX/tree/main/Notebook/Term_Deposit.ipynb)<br>
 |---[data](https://github.com/tanushri0609/1n2hY16EyVUZXZZX/tree/main/data)<br>

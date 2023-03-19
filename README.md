@@ -16,18 +16,18 @@ $ conda list -e > requirements.txt
 
 |---[.ipynb_checkpoints](.ipynb_checkpoints)<br>
 |---[Notebook](./Notebook)<br>
- &emsp;|---[Term_Deposit.ipynb](https://github.com/tanushri0609/1n2hY16EyVUZXZZX/tree/main/Notebook/Term_Deposit.ipynb)<br>
-|---[data](https://github.com/tanushri0609/1n2hY16EyVUZXZZX/tree/main/data)<br>
- &emsp;|---[term-deposit-marketing-2020.csv](https://github.com/tanushri0609/1n2hY16EyVUZXZZX/tree/main/data/term-deposit-marketing-2020.csv)<br>
-|---[src]((https://github.com/tanushri0609/1n2hY16EyVUZXZZX/tree/main/src)<br>
- &emsp;|---[data_encoding.py](https://github.com/tanushri0609/1n2hY16EyVUZXZZX/tree/main/src/data_encoding.py)<br>
- &emsp;|---[evaluate_model.py](https://github.com/tanushri0609/1n2hY16EyVUZXZZX/tree/main/src/evaluate_model.py)<br>
- &emsp;|---[feature_selection.py](https://github.com/tanushri0609/1n2hY16EyVUZXZZX/tree/main/src/feature_selection.py)<br>
- &emsp;|---[main.py](https://github.com/tanushri0609/1n2hY16EyVUZXZZX/tree/main/src/main.py)<br>
- &emsp;|---[partition_data.py](https://github.com/tanushri0609/1n2hY16EyVUZXZZX/tree/main/src/partition_data.py)<br>
- &emsp;|---[read_file.py](https://github.com/tanushri0609/1n2hY16EyVUZXZZX/tree/main/src/read_file.py)<br>
- &emsp;|---[split_data.py](https://github.com/tanushri0609/1n2hY16EyVUZXZZX/tree/main/src/split_data.py)<br>
- &emsp;|---[treat_imbalance.py](https://github.com/tanushri0609/1n2hY16EyVUZXZZX/tree/main/src/treat_imbalance.py)<br>
+ &emsp;|---[Term_Deposit.ipynb](./Notebook/Term_Deposit.ipynb)<br>
+|---[data](./data)<br>
+ &emsp;|---[term-deposit-marketing-2020.csv](./data/term-deposit-marketing-2020.csv)<br>
+|---[src]((./src)<br>
+ &emsp;|---[data_encoding.py](./src/data_encoding.py)<br>
+ &emsp;|---[evaluate_model.py](./src/evaluate_model.py)<br>
+ &emsp;|---[feature_selection.py](./src/feature_selection.py)<br>
+ &emsp;|---[main.py](./src/main.py)<br>
+ &emsp;|---[partition_data.py](./src/partition_data.py)<br>
+ &emsp;|---[read_file.py](./src/read_file.py)<br>
+ &emsp;|---[split_data.py](./src/split_data.py)<br>
+ &emsp;|---[treat_imbalance.py](./src/treat_imbalance.py)<br>
 |---[README.md](./README.md)
  
  

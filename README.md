@@ -7,8 +7,8 @@ Our client, a European Bank wants to improve the success rate of the calls made 
  ## Installation
  
 Download Anaconda <br>
-conda install -c anaconda jupyter <br>
-conda install -c anaconda spyder <br>
+$ conda install -c anaconda jupyter <br>
+$ conda install -c anaconda spyder <br>
 $ conda list -e > requirements.txt<br>
 
 ## Structure

@@ -19,7 +19,7 @@ $ conda list -e > requirements.txt<br>
  &emsp;|---[Term_Deposit.ipynb](./Notebook/Term_Deposit.ipynb)<br>
 |---[data](./data)<br>
  &emsp;|---[term-deposit-marketing-2020.csv](./data/term-deposit-marketing-2020.csv)<br>
-|---[src]((./src)<br>
+|---[src](./src)<br>
  &emsp;|---[data_encoding.py](./src/data_encoding.py)<br>
  &emsp;|---[evaluate_model.py](./src/evaluate_model.py)<br>
  &emsp;|---[feature_selection.py](./src/feature_selection.py)<br>

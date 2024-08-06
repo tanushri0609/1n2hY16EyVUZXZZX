@@ -29,5 +29,9 @@ $ conda list -e > requirements.txt<br>
  &emsp;|---[split_data.py](./src/split_data.py)<br>
  &emsp;|---[treat_imbalance.py](./src/treat_imbalance.py)<br>
 |---[README.md](./README.md)
+
+## Conclusion
+
+We build the classification model which can identify weather user will be interested to invest in term deposit or not. Out of six different models, XG Boost showed the best performance with 0.78
  
  
